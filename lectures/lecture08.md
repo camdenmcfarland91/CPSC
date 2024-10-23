@@ -1,4 +1,4 @@
-# Lecture 7
+# Lecture 8
 
 ## Housekeeping
 - Week in World of AI
